@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Ak4ts
+<br/>
 
-<!--
-**Ak4ts/Ak4ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning React.js, Node.js and things about Ethical Hacking in general
+- 💬 Ask me about what makes me happy :)
+- ⚡ Fun fact: I'm so used to work at night that when I do things during the day, I think it's the strangest thing in the world 😳
+<br/><br/><br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/Ak4ts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ak4ts&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak4ts&layout=compact&langs_count=7&theme=react"/>
+</div>
