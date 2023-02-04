@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Luiz
 <br/>
 
-- 🌱 I’m currently learning React.js, Node.js and things about Ethical Hacking in general
+- 🌱 I’m currently learning C#, Ruby and a little bit of C++
 - 💬 Ask me about what makes me happy :)
 - ⚡ Fun fact: I'm so used to work at night that when I do things during the day, I think it's the strangest thing in the world 😳
 <br/><br/><br/>
