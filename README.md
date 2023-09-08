@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Luiz
 <br/>
 
-- 🌱 I’m currently learning C#, Ruby and a little bit of C++
-- 💬 Ask me about what makes me happy :)
-- ⚡ Fun fact: I'm so used to work at night that when I do things during the day, I think it's the strangest thing in the world 😳
+- 🌱 I’m currently learning C#, Ruby, Rust and a little bit of C++
+- 🧑‍💼 I'm working as a System Analyst at Claudiah 🇧🇷
+- ⚛️ I'm very bad with design things, but I'm working with React, React Native and C# right now
 <br/><br/><br/>
 
 <div align="center">
