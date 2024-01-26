@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning C#, Ruby, Rust and a little bit of C++
 - 🧑‍💼 I'm working as a System Analyst at Claudiah 🇧🇷
-- ⚛️ I'm very bad with design things, but I'm working with React, React Native and C# right now
+- ⚛️ I'm working with React, React Native and C# right now
 <br/><br/><br/>
 
 <div align="center">
