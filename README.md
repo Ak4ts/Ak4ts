@@ -2,7 +2,7 @@
 <br/>
 
 - 🌱 I’m currently learning C#, Ruby, Rust and a little bit of C++
-- 🧑‍💼 I'm working as a System Analyst at Claudiah 🇧🇷
+- 🧑‍💼 I'm working as a Mid Level Software Developer at Claudiah 🇧🇷
 - ⚛️ I'm working with React, React Native and C# right now
 <br/><br/><br/>
 
